@@ -1,0 +1,9 @@
+﻿# игнорировать файлы с расширением 
+.idea
+out
+target
+src/main/resources/
+*.iml
+
+
+
